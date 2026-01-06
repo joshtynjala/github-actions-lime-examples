@@ -12,7 +12,7 @@ jobs:
     - uses: nttld/setup-ndk@v1
       id: setup-ndk 
       with:
-        ndk-version: r15c
+        ndk-version: r28c
     - uses: krdlab/setup-haxe@v2
       with:
         haxe-version: 4.2.5
